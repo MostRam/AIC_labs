@@ -15,20 +15,23 @@ In Part 1 we used ADT to generate MOSFET charactaristic chart and learned
 ## part 2 OTA Design
 In Part 2 we used Knowledge to design fully-differential folded cascode OTA and learned
 - How to design a fully-differential folded cascode OTA meeting desired specifications.
-and this is screenshot of the design ![screen shot of OTA design](.image/OTA.png)
+and this is screenshot of the design 
+![screen shot of OTA design](.image/OTA.png)
 
 ## part 3 Open-Loop OTA Simulation (Behavioral CMFB)
 In Part 3 we used cadence&Virtuoso to simulate our Open-Loop OTA (Behavioral CMFB) and learned 
 - How to set the CM output voltage of a fully-differential OTA with an ideal CMFB circuit.
 - How to simulate the small-signal differential characteristics of a fully-differential folded cascode OTA in open-loop configuration with an ideal CMFB circuit.
-and this is screenshot of the behavioral OTA ![screen shot of behavioral OTA](.image/bahav_CMFB.png)
+and this is screenshot of the behavioral OTA 
+![screen shot of behavioral OTA](.image/bahav_CMFB.png)
 
 ## part 4 Open-Loop OTA Simulation (Actual CMFB)
 In Part 4 we used cadence&Virtuoso to simulate our Open-Loop OTA Simulation (Actual CMFB) and learned 
 - How to design a CMFB circuit.
 - How to set the CM output voltage of a fully-differential OTA with an actual CMFB circuit.
 - How to simulate the small-signal differential characteristics of a fully-differential folded cascode OTA in open-loop configuration with a real CMFB circuit.
-and this is screenshot of the Actual CMFB ![screen shot of Actual CMFB](.image/CMFB.png)
+and this is screenshot of the Actual CMFB 
+![screen shot of Actual CMFB](.image/CMFB.png)
 
 ## part 5 Closed Loop Simulation (AC and STB Analysis)
 In Part 5 we used cadence&Virtuoso to simulate our closed-Loop OTA and learned 

@@ -14,7 +14,8 @@ In Part 1 we used ADT to generate MOSFET charactaristic chart and learned
 ## part 2 OTA Design
 In Part 2 we used Knowledge to design Two-Stage Miller OTA and learned
 - How to design two-stage Miller OTA meeting desired specifications.
-and this is screenshot of the design ![screen shot of OTA design](.image/design.png)
+and this is screenshot of the design
+![screen shot of OTA design](.image/design.png)
 
 ## part 3 Open-Loop OTA Simulation
 In Part 3 we used cadence&Virtuoso to simulate our Open-Loop OTA and learned 
@@ -22,7 +23,8 @@ In Part 3 we used cadence&Virtuoso to simulate our Open-Loop OTA and learned
 - How to simulate the small-signal common-mode gain of two-stage Miller OTA in open-loop configuration.
 - How to simulate the large-signal differential characteristics of two-stage Miller OTA in open-loop configuration.
 - How to simulate the large-signal common-mode characteristics of two-stage Miller OTA in open-loop configuration.
-and this is screenshot of the Open-Loop OTA ![screen shot of Open-Loop OTA](.image/Part3.png)
+and this is screenshot of the Open-Loop OTA 
+![screen shot of Open-Loop OTA](.image/Part3.png)
 
 ## part 4 Closed-Loop OTA Simulation
 In Part 4 we used cadence&Virtuoso to simulate our closed-Loop OTA and learned 
@@ -30,13 +32,16 @@ In Part 4 we used cadence&Virtuoso to simulate our closed-Loop OTA and learned
 - How to simulate the small-signal common-mode gain of two-stage Miller OTA in closed-loop configuration.
 - How to simulate the large-signal differential characteristics of two-stage Miller OTA in closed-loop configuration.
 - How to simulate the large-signal common-mode characteristics of two-stage Miller OTA in closed-loop configuration.
-and this is screenshot of the Closed-Loop OTA ![screen shot of Closed-Loop OTA](.image/Part4.png)
+and this is screenshot of the Closed-Loop OTA 
+![screen shot of Closed-Loop OTA](.image/Part4.png)
 
 ## part 5 (optional): DC Closed Loop AC Open-Loop OTA Simulation
 In Part 5 we used cadence&Virtuoso to simulate our closed-Loop OTA and learned 
 - How to use dc closed-loop configuration to simulate an ac open-loop configuration.
-and this is screenshot of the DC Closed Loop AC Open-Loop OTA ![screen shot of DC Closed Loop AC Open-Loop OTA](.image/Part5.png)
+and this is screenshot of the DC Closed Loop AC Open-Loop OTA 
+![screen shot of DC Closed Loop AC Open-Loop OTA](.image/Part5.png)
 
-and in the final of the labs simulation this the resulat we get from this design ![screen shot of specs](.image/specs.png)
+and in the final of the labs simulation this the resulat we get from this design 
+![screen shot of specs](.image/specs.png)
 
 
