@@ -31,17 +31,17 @@ In Part 4 we used cadence&Virtuoso to simulate our closed-Loop OTA and learned
 - How to simulate the small-signal differential gain of two-stage Miller OTA in closed-loop configuration.
 - How to simulate the small-signal common-mode gain of two-stage Miller OTA in closed-loop configuration.
 - How to simulate the large-signal differential characteristics of two-stage Miller OTA in closed-loop configuration.
-- How to simulate the large-signal common-mode characteristics of two-stage Miller OTA in closed-loop configuration.
-and this is screenshot of the Closed-Loop OTA 
+- How to simulate the large-signal common-mode characteristics of two-stage Miller OTA in closed-loop configuration.<br>
+and this is screenshot of the Closed-Loop OTA <br>
 ![screen shot of Closed-Loop OTA](.image/Part4.png)
 
 ## part 5 (optional): DC Closed Loop AC Open-Loop OTA Simulation
 In Part 5 we used cadence&Virtuoso to simulate our closed-Loop OTA and learned 
-- How to use dc closed-loop configuration to simulate an ac open-loop configuration.
-and this is screenshot of the DC Closed Loop AC Open-Loop OTA 
-![screen shot of DC Closed Loop AC Open-Loop OTA](.image/Part5.png)
+- How to use dc closed-loop configuration to simulate an ac open-loop configuration.<br>
+and this is screenshot of the DC Closed Loop AC Open-Loop OTA <br>
+![screen shot of DC Closed Loop AC Open-Loop OTA](.image/Part5.png)<br>
 
-and in the final of the labs simulation this the resulat we get from this design 
+and in the final of the labs simulation this the resulat we get from this design <br>
 ![screen shot of specs](.image/specs.png)
 
 
